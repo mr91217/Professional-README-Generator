@@ -3,7 +3,7 @@
  
 ![badge](https://img.shields.io/badge/license-N/A-brightgreen)<br />
 ## Description
-  A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory 
+  A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -16,7 +16,7 @@
 ## Installation
   npm init, npm install inquirer
 ## Usage
-  node index, node index.js
+  node index.js, node index
 ## Languages
   JavaScript,Node
 ## License
