@@ -67,6 +67,12 @@ function promptUser(){
             ]
         },
         {
+          type: 'checkbox',
+          name: 'languages',
+          message: 'What did you this project with? (Check all that apply)',
+          choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node']
+        },
+        {
             type: "input",
             name: "contributing",
             message: "Who are the contributors of this projects?",

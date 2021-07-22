@@ -10,6 +10,7 @@ function generateReadme(answers) {
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Languages](#languages)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -17,6 +18,8 @@ function generateReadme(answers) {
   ${answers.installation}
 ## Usage
   ${answers.usage}
+## Languages
+  ${answers.languages}
 ## License
 ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
 <br />

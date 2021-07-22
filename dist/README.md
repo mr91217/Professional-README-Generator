@@ -1,27 +1,30 @@
 
-<h1 align="center">this is a title </h1>
+<h1 align="center">title </h1>
  
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
 ## Description
-  this is a description
+  balabalakajiajia
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Languages](#languages)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-  npm init
+  npm init npm install inquirer
 ## Usage
-  create readme file
+  create README
+## Languages
+  JavaScript,Node
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![badge](https://img.shields.io/badge/license-Academic-brightgreen)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the Academic license. 
 ## Contributing
-  me
+  CYC
 ## Tests
  no
 ## Questions
