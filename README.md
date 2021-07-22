@@ -28,8 +28,10 @@ SO THAT can quickly create a professional README for a new project
   
   `npm install inquirer`
 ## Usage
-  Run the following command at th root of your project and answer the prompted questions:
+  Run the following command at th root of your project and answer the prompted questions:<br />
+
   `node index.js`
+
   `node index`
 ## Languages
   JavaScript,Node
@@ -39,8 +41,6 @@ SO THAT can quickly create a professional README for a new project
 This application is covered by the N/A license. 
 ## Contributing
   ChunYu Chang
-## Tests
- No
 ## Questions
  Contact me<br />
 <br />
