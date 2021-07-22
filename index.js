@@ -1,6 +1,5 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
-
 const fs = require('fs');
 const generatePage = require('./src/page-template');
 // const { writeFile, copyFile } = require('./utils/generate-site.js');
@@ -57,6 +56,7 @@ function promptUser(){
             name: "license",
             message: "Chose the appropriate license for this project: ",
             choices: [
+                "N/A",
                 "Apache",
                 "Academic",
                 "GNU",
