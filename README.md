@@ -1,9 +1,9 @@
 
-<h1 align="center">title </h1>
+<h1 align="center">Professional-README-Generator </h1>
  
 ![badge](https://img.shields.io/badge/license-N/A-brightgreen)<br />
 ## Description
-  Professional-README-Generator
+  A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -14,9 +14,9 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-  npm init
+  npm init, npm install inquirer
 ## Usage
-  create READme
+  node index, node index.js
 ## Languages
   JavaScript,Node
 ## License
@@ -24,15 +24,17 @@
 <br />
 This application is covered by the N/A license. 
 ## Contributing
-  CYC
+  ChunYu Chang
 ## Tests
- no
+ No
 ## Questions
- call 011<br />
+ Contact me<br />
 <br />
-Find me on GitHub: [lulu](https://github.com/lulu)<br />
+## Contact
+GitHub: [mr91217](https://github.com/mr91217)<br />
 <br />
-Email me with any questions: lulutofu@lucas.com<br /><br />
+Email: mr91217@gmail.com<br />
+<br />
 This README was generated with ❤️ by [Professional-README-Generator]
 https://github.com/mr91217/Professional-README-Generator
    
